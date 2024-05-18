@@ -18,4 +18,4 @@ sudo apt-get -y install jenkins
 sudo systemctl start jenkins
 
 # Enable Jenkins to run on Boot
-sudo systemctl enable jenkins
+sudo systemctl enable jenkins
